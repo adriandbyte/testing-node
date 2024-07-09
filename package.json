@@ -1,7 +1,7 @@
 {
-  "name": "02-bases",
+  "name": "testing-nodejs",
   "version": "1.0.0",
-  "description": "Esta es mi primera aplicación real de Node",
+  "description": "Aplicacion de node introduccion al testing",
   "main": "app.ts",
   "scripts": {
     "test": "jest",
